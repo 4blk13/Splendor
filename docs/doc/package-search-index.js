@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"splendor.card"},{"l":"splendor.game"},{"l":"splendor.noble"},{"l":"splendor.player"},{"l":"splendor.token"}];updateSearchResults();
